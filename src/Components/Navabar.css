@@ -1,0 +1,17 @@
+.nava{
+    margin: 0px 10%;
+}
+.cart-item{
+    font-size: 25px;
+    position: relative;
+    top: -8px;
+}
+.cart-count{
+    font-size: 17px;
+    position: relative;
+    top: -7px;
+    left: -15px;
+    z-index: 10; 
+    /* color: yellow; */
+    cursor: pointer;
+}
